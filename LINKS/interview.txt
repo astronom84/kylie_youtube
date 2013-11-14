@@ -1,2 +1,3 @@
 # <videoId>:<name>:<account>
 "lFlsOeCYmBY":"Kylie Minogue - VEVO News Interview":"KylieMinogueVEVO"
+"EzBvXHyjxWk":"Kylie Minogue at the Brit Awards 2010 (Interview)":"kylieblog2"
