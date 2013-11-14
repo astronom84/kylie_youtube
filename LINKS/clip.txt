@@ -1,0 +1,8 @@
+# <videoId>:<name>:<account>
+"wMiW7FxBa88":"Kylie Minogue - Breathe":"KylieMinogueVEVO"
+"et-RT1INf7c":"Kylie Minogue - Flower":"KylieMinogueVEVO"
+"q9t6wef5xlE":"Kylie Minogue - Put Yourself in My Place":"KylieMinogueVEVO"
+"bgp4SauJzms":"Kylie Minogue - Where Is the Feeling?":"KylieMinogueVEVO"
+"jDKPvy-ZXC8":"Kylie Minogue - Did It Again (Radio Edit)":"KylieMinogueVEVO"
+"PxZkjq9z5wg":"Kylie Minogue - Confide In Me":"KylieMinogueVEVO"
+"tdfP9c2NBYA":"Kylie Minogue - Some Kind Of Bliss":"KylieMinogueVEVO"
