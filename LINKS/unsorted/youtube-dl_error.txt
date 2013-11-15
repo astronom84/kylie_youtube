@@ -1,0 +1,12 @@
+0 успех
+
+1 ERROR: batch file could not be read
+1 ERROR: YouTube said: Invalid parameters.
+1 AttributeError: 'NoneType' object has no attribute 'geturl'
+1 ERROR: unable to download video webpage: HTTP Error 404: Not Found
+
+2 youtube-dl: error: you must provide at least one URL
+
+
+
+
