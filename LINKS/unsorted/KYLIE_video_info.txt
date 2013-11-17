@@ -1,5 +1,5 @@
 #########################################################################################
-# Format: 'videoId'<TAB>##<TAB>'title'<TAB>##<TAB>'channelTitle'<TAB>##<TAB>'publishedAt'#
+#Format: 'videoId'<TAB>##<TAB>'title'<TAB>##<TAB>'channelTitle'<TAB>##<TAB>'publishedAt'#
 #########################################################################################
 '009ZLmDwt4k'	##	'All The Lovers - Kylie Minogue Aphrodite Les Folies @London O2 Arena 12.04.11'	##	'Fill Garzon'	##	'2011-06-04T23:32:42.000Z'
 '00jwZzO1aRc'	##	'Kylie Minogue'	##	'hkerr79'	##	'2007-05-05T19:13:43.000Z'
